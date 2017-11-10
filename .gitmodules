@@ -1,15 +1,15 @@
 [submodule "bundle/inkpot"]
-	path = bundle/inkpot
+	path = pack/github/start/inkpot
 	url = git@github.com:ciaranm/inkpot.git
 [submodule "bundle/sensible"]
-	path = bundle/sensible
+	path = pack/github/start/sensible
 	url = git@github.com:tpope/vim-sensible
 [submodule "bundle/airline"]
-	path = bundle/airline
+	path = pack/github/start/airline
 	url = git@github.com:vim-airline/vim-airline.git
 [submodule "bundle/fugitive"]
-	path = bundle/fugitive
+	path = pack/github/start/fugitive
 	url = git@github.com:tpope/vim-fugitive.git
 [submodule "bundle/tmux"]
-	path = bundle/tmux
+	path = pack/github/start/tmux
 	url = git@github.com:tmux-plugins/vim-tmux.git

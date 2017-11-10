@@ -1,5 +1,3 @@
-execute pathogen#infect()
-
 " set personal preferences not set by tpope's vim-sensible
 let g:mapleader=','
 
