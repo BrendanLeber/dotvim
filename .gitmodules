@@ -13,3 +13,12 @@
 [submodule "bundle/tmux"]
 	path = pack/github/start/tmux
 	url = git@github.com:tmux-plugins/vim-tmux.git
+[submodule "pack/github/start/vim-cpp"]
+	path = pack/github/start/vim-cpp
+	url = https://github.com/vim-jp/vim-cpp.git
+[submodule "pack/github/start/rust.vim"]
+	path = pack/github/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "pack/github/start/vim-toml"]
+	path = pack/github/start/vim-toml
+	url = https://github.com/cespare/vim-toml.git
